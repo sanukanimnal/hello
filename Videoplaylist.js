@@ -32,7 +32,7 @@ const videosList = [
 	title: 'poeple walking in town animation'
 },
 {
-	video: 'images/vid-8.mp4',
+	video: 'images/vid-.mp4',
 	title: 'knight chasing virus animation'
 },
 ]
